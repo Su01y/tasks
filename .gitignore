@@ -1,0 +1,13 @@
+__pycache__
+venv
+logs### main template
+*.log
+*.pyc
+__pycache__/
+media
+venv/
+.env
+.venv
+.idea
+.~lock*
+ftp.py
